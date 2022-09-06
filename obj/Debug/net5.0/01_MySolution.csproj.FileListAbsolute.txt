@@ -1,0 +1,16 @@
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\01_MySolution.csprojAssemblyReference.cache
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\01_MySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\01_MySolution.AssemblyInfoInputs.cache
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\01_MySolution.AssemblyInfo.cs
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\01_MySolution.csproj.CoreCompileInputs.cache
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\bin\Debug\net5.0\01_MySolution.exe
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\bin\Debug\net5.0\01_MySolution.deps.json
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\bin\Debug\net5.0\01_MySolution.runtimeconfig.json
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\bin\Debug\net5.0\01_MySolution.runtimeconfig.dev.json
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\bin\Debug\net5.0\01_MySolution.dll
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\bin\Debug\net5.0\ref\01_MySolution.dll
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\bin\Debug\net5.0\01_MySolution.pdb
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\01_MySolution.dll
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\ref\01_MySolution.dll
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\01_MySolution.pdb
+C:\Users\ANIL-PC\Downloads\Ex_Files_C_Sharp_Algorithms\Ex_Files_C_Sharp_Algorithms\Exercise Files\01\01_MySolution\obj\Debug\net5.0\01_MySolution.genruntimeconfig.cache
